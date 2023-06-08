@@ -2,7 +2,7 @@ import time
 
 divisor=0
 c=True
-
+variable=123
 while c:
   x=int(input("Ingrese un número para saber si es primo: "))
   for i in range(2,x+1):
