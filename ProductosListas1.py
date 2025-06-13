@@ -3,7 +3,7 @@ productos=[]
 while True:
   sw=1
   
-  print("Bienvenido al Registro de Productos\n1-Registrar Producto\n2-Consultar Producto\n3-Listar Productos\n4-Salir")
+  print("Bienvenidos al Registro de Productos\n1-Registrar Producto\n2-Consultar Producto\n3-Listar Productos\n4-Salir")
   try:
    op=int(input("Ingrese Opción: "))
    if op==1:
