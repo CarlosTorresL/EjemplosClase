@@ -1,4 +1,4 @@
-import random as r
+import random as ra
 import os
 import time
 import msvcrt as m
