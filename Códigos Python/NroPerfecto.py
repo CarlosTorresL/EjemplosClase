@@ -1,5 +1,5 @@
 suma=0
-print("NÚMERO PERFECTO")
+print("NÚMERO PERFECTO 1")
 x=int(input("Ingrese el número: "))
 
 for i in range(1,x):
