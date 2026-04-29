@@ -1,8 +1,8 @@
 #print("Prueba de GitHub")
-print("Bienvenido")
+
 
 a=5
-b=7
+b=10
 c=1
 print("Cambio de codigo")
 #Descripción de código
